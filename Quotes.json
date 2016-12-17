@@ -1,0 +1,123 @@
+{
+	"1": {
+		"leader": "Barak Obama",
+		"years": "1961 - present",
+		"wiki": "https://en.wikipedia.org/wiki/Barack_Obama",
+		"cover": "https://rooseveltcdc.files.wordpress.com/2016/01/flag.png?w=1500",
+		"pic": ["http://s1.lemde.fr/image/2016/01/13/534x0/4846180_6_6bb8_barack-obama-a-profite-de-son-adresse-au_5a3d3534c49599cad78039f91b7c2855.jpg", "http://pixel.nymag.com/imgs/daily/vulture/2016/08/11/11-obama-sex-playlist.w529.h529.jpg", "http://i2.cdn.cnn.com/cnnnext/dam/assets/160105151652-obama-90-sec-large-169.jpg", "http://15130-presscdn-0-89.pagely.netdna-cdn.com/wp-content/uploads/2016/04/obama-mic-drop.jpg"],
+		"quotes": [ "Torture is how you create enemies, not how you defeat them.", "There's not a liberal America and a conservative America - there's the United States of America.", "Do something, Congress. Do anything.", "Change doesn't come from Washington. Change comes to Washington.", "It took a lot of blood, sweat and tears to get to where we are today, but we have just begun. Today we begin in earnest the work of making sure that the world we leave our children is just a little bit better than the one we inhabit today.", "Money is not the answer, but it makes a difference.", "This is the moment when we must come together to save this planet. Let us resolve that we will not leave our children a world where the oceans rise and famine spreads and terrible storms devastate our lands.", "Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek."]
+	}, 
+	"2": {
+		"leader": "Margaret Thatcher",
+		"years": "1951 – 2003",
+		"wiki": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
+		"cover": "http://pictures.ozy.com/pictures/1500xany/6/7/0/6670_50591228.jpg",
+		"pic":  ["https://sheroes.in/img/uploads/article/high_res/Margaret-Thatcher1.jpg", "http://www.abc.net.au/news/image/3980674-3x2-700x467.jpg", "http://cdn.skim.gs/image/upload/v1456343796/msi/baroness-margaret-thatcher_ydlvik.jpg", "http://cdn.static-economist.com/sites/default/files/images/print-edition/20130413_FBP001_0.jpg"],
+		"quotes": [ "There is no such thing as society: there are individual men and women, and there are families.", "The problem with socialism is that you eventually run out of other people's money.", "Plan your work for today and every day, then work your plan.", "No-one would remember the Good Samaritan if he'd only had good intentions; he had money as well.", "I am extraordinarily patient, provided I get my own way in the end.", "Being powerful is like being a lady. If you have to tell people you are, you aren't.", "If you want something said, ask a man ; if you want something done, ask a woman.", "Pennies do not come from heaven. They have to be earned here on earth.", "If you set out to be liked, you would be prepared to compromise on anything at anytime, and you would achieve nothing.", "Any woman who understands the problems of running a home will be nearer to understand the problems of running a country.", "Disciplining yourself to do what you know is right and importance, although difficult, is the highroad to pride, self esteem, and personal satisfaction.", "You may have to fight a battle more than once to win it.", "Europe was created history. America was created by philosophy."]
+	}, 
+	"3": {
+		"leader": "Fidel Castro",
+		"years": "1926 - 2016",
+		"wiki": "https://en.wikipedia.org/wiki/Fidel_Castro",
+		"cover": "http://images0.tcdn.nl/vrij/varen/article21842044.ece/BINARY/u/fidel.castroJPG.JPG",
+		"pic": ["http://factsforyou.com.ua/wp-content/uploads/2012/03/tTMfiE3Pt2jeKChawKCm5Q-article.jpg", "http://i.dailymail.co.uk/i/pix/2015/01/09/2488DE0E00000578-0-image-a-43_1420803385854.jpg", "http://i2.cdn.cnn.com/cnnnext/dam/assets/161126125658-fidel-castro-exlarge-169.jpg", "http://www.globalresearch.ca/wp-content/uploads/2016/09/Fidel-Castro-21-400x247.jpg"],
+		"quotes": [ "No thieves, no traitors, no interventionists! This time the revolution is for real!", "Capitalism is using its money; we socialists throw it away.", "I think that a man should not live beyond the age when he begins to deteriorate, when the flame that lighted the brightest moment of his life has weakened.", "I find capitalism repugnant. It is filthy, it is gross, it is alienating... because it causes war, hypocrisy and competition.", "The revolution is a dictatorship of the exploited against the exploiters.", "I began revolution with 82 men. If I had to do it again, I do it with 10 or 15 and absolute faith. It does not matter how small you are if you have faith and plan of action.", "Men do not shape destiny, destiny produces the man for the hour.", "They are talking about the failure of socialism but where is the success of capitalism in Africa, Asia and Latin America?", "A revolution is not a bed of roses", "A revolution is a struggle to the death between the future and the past."]
+	}, 
+	"4": {
+		"leader": "George Washington",
+		"years": "1732 - 1799",
+		"wiki": "https://en.wikipedia.org/wiki/George_Washington",
+		"cover": "http://www.larryhayes.com/wp-content/uploads/2016/02/Dean_Franklin_-_06.04.03_Mount_Rushmore_Monument_by-sa-3_new-1.jpg",
+		"pic": ["http://i1330.photobucket.com/albums/w578/Saladin1945/W_zpse6bd8b27.jpeg", "http://s3.amazonaws.com/mtv-main-assets/files/resources/large_lansdowne-sc-134-2.jpg", "http://www.allinhindi.com/wp-content/uploads/2016/01/George-Washington-Quotes.jpg"],
+		"quotes": [ "Guard against the impostures of pretended patriotism.", "Liberty, when it begins to take root, is a plant of rapid growth.", "I hope I shall possess firmness and virtue enough to maintain what I consider the most enviable of all titles, the character of an honest man.", "Friendship is a plant of slow growth and must undergo and withstand the shocks of adversity before it is entitled to the appellation.", "If the freedom of speech is taken away then dumb and silent we may be led, like sheep to the slaughter.", "To be prepare for war is one of the most effective means of preserving peace.", "It is better to offer no excuse than a bad one.", "Observe good faith and justice toward all nations. Cultivate peace and harmony with all.", "Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.", "Associate with men of good quality if you esteem your own reputation; for it is better to be alone than in bad company."]
+	}, 
+	"5": {
+		"leader": "Donald Trump",
+		"years": "1946 - present",
+		"wiki": "https://en.wikipedia.org/wiki/Donald_Trump",
+		"cover": "http://stmedia.startribune.com/images/1aoped071316.jpg",
+		"pic": ["http://media.salon.com/2015/08/donald_trump17.jpg","http://dynaimage.cdn.turner.com/cnn-elections/candidates/,w_800/1e1716e0-trump-4x3.jpg","http://cdn.playbuzz.com/cdn/0c997cd3-1750-4d26-882c-653577f3afda/ae4fdcdf-8ffe-4040-88ac-2b51e727f29c.jpg", "http://static2.businessinsider.com/image/57431cad52bcd026008c4814-480/donald-trump.jpg", "http://static3.businessinsider.com/image/55be2bd62acae72d5f8bbb6b-480/donald-trump.jpg", "https://macdailynews.files.wordpress.com/2016/02/160219_trumpaloompa.jpg?w=300&h=281"],
+		"quotes": ["Everything in life is luck.", "Anyone who thinks my story is anywhere near over is sadly mistaken.", "All of the women on The Apprentice flirted with me - consciously or unconsciously. That's to be expected.", "You could see there was blood coming out of her eyes. Blood coming out of her — wherever.", "I would bring back waterboarding and I'd bring back a hell of a lot worse than waterboarding.", "He’s not a war hero... He was a war hero because he was captured. I like people who weren’t captured.", "If you see somebody with a tomato, knock the crap out of them.", "Look at my African-American over here.", "Look at my African-American over here.", "It’s nice to build a successful hotel. It’s a lot better to build a hotel attached to a huge casino… ", "Protect the downside and the upside will take care of itself", "You can’t con people, at least not for long.", "The dollar always talks in the end. ", "I moved on her like a bitch.", "We're gonna build a wall. It's gonna be a huge wall."]
+	},
+
+	"6": {
+		"leader": "Mahatma Gandhi",
+		"years":  "1869-1948",
+		"wiki": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+		"cover": "https://www.lonelyplanet.com/travel-blog/tip-article/wordpress_uploads/2011/11/GettyImages-dv572010_cs.jpg",
+		"pic": ["http://i2.cdn.cnn.com/cnnnext/dam/assets/130814181234-mahatma-gandhi-horizontal-large-gallery.jpg", "http://cp91279.biography.com/BRAND_BIO_Bio-Shorts_Gandhi-Mini-Biography_0_172233_SF_HD_768x432-16x9.jpg", "http://www.frasipiubelle.it/wp-content/uploads/2014/09/gandhi.jpg", "http://www.sikharchives.com/wp-content/uploads/2011/05/mahatma-gandhi-god_of_india.jpg", "https://media1.britannica.com/eb-media/88/75588-004-7B5D5F2C.jpg"],
+		"quotes": ["You must be the change you wish to see in the world.", "The weak can never forgive. Forgiveness is the attribute of the strong.", "Happiness is when what you think, what you say, and what you do are in harmony.", "An eye for eye only ends up making the whole world blind.", "Live as if you were to die tomorrow; learn as if you were to live forever.", "First they ignore you, then they laugh at you, then they fight you, then you win.", "You must not lose faith in humanity. Humanity is an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty.", "The best way to find yourself is to lose yourself in the service of others.", "Strength does not come from physical capacity. It comes from an indomitable will.", "A man is but the product of his thoughts; what he thinks, he becomes.", "The greatness of humanity is not in being human, but in being humane.", "To call woman the weaker sex is a libel; it is man's injustice to woman.", "Freedom is not worth having if it does not include the freedom to make mistakes.", "Nonviolence is a weapon of the strong.", "Earth provides enough to satisfy every man's needs, but not every man's greed."]
+	}, 
+	"7": {
+		"leader": "",
+		"years":  "",
+		"wiki": "",
+		"cover": "",
+		"pic": [],
+		"quotes": []
+	}, 
+	"8": {
+		"leader": "",
+		"years":  "",
+		"wiki": "",
+		"cover": "",
+		"pic": [],
+		"quotes": []
+	}, 
+	"9": {
+		"leader": "",
+		"years":  "",
+		"wiki": "",
+		"cover": "",
+		"pic": [],
+		"quotes": []
+	}, 
+	"10": {
+		"leader": "",
+		"years":  "",
+		"wiki": "",
+		"cover": "",
+		"pic": [],
+		"quotes": []
+	}, 
+	"11": {
+		"leader": "",
+		"years":  "",
+		"wiki": "",
+		"cover": "",
+		"pic": [],
+		"quotes": []
+	}, 
+	"12": {
+		"leader": "",
+		"years":  "",
+		"wiki": "",
+		"cover": "",
+		"pic": [],
+		"quotes": []
+	}, 
+	"13": {
+		"leader": "",
+		"years":  "",
+		"wiki": "",
+		"cover": "",
+		"pic": [],
+		"quotes": []
+	}, 
+	"14": {
+		"leader": "",
+		"years":  "",
+		"wiki": "",
+		"cover": "",
+		"pic": [],
+		"quotes": []
+	}, 
+	"15": {
+		"leader": "",
+		"years":  "",
+		"wiki": "",
+		"cover": "",
+		"pic": [],
+		"quotes": []
+	}
+};
