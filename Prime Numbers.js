@@ -30,7 +30,9 @@ function numberOfPrimes(arr)
 }
 
 function efficientPrime(num, num2){  //This function is much more efficient
-	if (num <= 1)
+	if (num2 === undefined)
+{	
+	if (num <= 1 || num%1 !== 0)
 	{
 		return false;
 	}
@@ -41,9 +43,20 @@ function efficientPrime(num, num2){  //This function is much more efficient
 		}
 	}
 	return true;
+}else{
+		primeArray = [];
+
+		for (var i = num; i <= num2 ; i++) 
+		{
+			if (efficientPrime(i)) {
+				primeArray.push(i);
+			}
+		}
+		return primeArray;
+	}
 }
 
-console.log(isPrime(1));
-console.log(efficientPrime(1));
+//console.log(isPrime(0,100));
+console.log(efficientPrime(1,100));
 
 //console.log(Math.pow(2,4));
