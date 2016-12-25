@@ -57,6 +57,6 @@ function efficientPrime(num, num2){  //This function is much more efficient
 }
 
 //console.log(isPrime(0,100));
-console.log(efficientPrime(1,100));
+console.log(efficientPrime(1,25));
 
 //console.log(Math.pow(2,4));
