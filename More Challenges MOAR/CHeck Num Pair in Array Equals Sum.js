@@ -14,23 +14,24 @@ function checkPairSum(arr, num){
 function efficientCheckPairSum(arr, num){
 	var high = arr.length -1;
 	var low = 0;
+	var sum; 
 
 	while (low<high){
-		var pair= arr[low] + arr[high];
-		if ( pair === num){
+		sum = arr[low] + arr[high];
+		if ( sum === num){
 			return true;
-		}else if(pair < num){
+		}else if(sum < num){
 			low++;
 		}else {
-			high--
+			high--;
 		}
 	}
 	return false;
 }
 
 //Inefficient way
-console.log(checkPairSum([1,2,3,9], 8));
-console.log(checkPairSum([1,2,4,4], 8));
+/*console.log(checkPairSum([1,2,3,9], 8));
+console.log(checkPairSum([1,2,4,4], 8));*/
 
 //slightly more efficient way
 console.log(efficientCheckPairSum([1,2,3,9], 8));
